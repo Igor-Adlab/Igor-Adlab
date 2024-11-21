@@ -23,7 +23,7 @@ I'm a passionate **Senior Software Engineer** with expertise in **DevOps** and a
 ---
 
 ## Notable Projects  
-### **[Telegram Bots](https://github.com/Igor-Adlab/spacebots-api)** 🤖
+### **[Telegram Bots](https://github.com/Igor-Adlab/spacebots-api)** 🤖 - 🔥**OPEN SOURCE**🔥
 - **[@FmMusicSearchBot](https://t.me/FmMusicSearchBot)**: Music search bot 🎶  
 - **[@AllyDownloaderBot](https://t.me/AllyDownloaderBot)**: Download media from Instagram, TikTok, YouTube 📥  
 - **[@GetMediaTextBot](https://t.me/GetMediaTextBot)**: Convert video/audio to text 🎬  
