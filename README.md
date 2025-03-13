@@ -23,17 +23,11 @@ I'm a passionate **Senior Software Engineer** with expertise in **DevOps** and a
 ---
 
 ## Notable Projects  
-### **[Telegram Bots](https://github.com/Igor-Adlab/spacebots-api)** 🤖 - 🔥**OPEN SOURCE**🔥
-- **[@FmMusicSearchBot](https://t.me/FmMusicSearchBot)**: Music search bot 🎶  
-- **[@AllyDownloaderBot](https://t.me/AllyDownloaderBot)**: Download media from Instagram, TikTok, YouTube 📥  
-- **[@GetMediaTextBot](https://t.me/GetMediaTextBot)**: Convert video/audio to text 🎬  
-- **[@TgTokVideoBot](https://t.me/TgTokVideoBot)**: Create TikTok videos 🎨  
-- **[@SpaceVideoCaptionsBot](https://t.me/SpaceVideoCaptionsBot)**: Turn text into audio with captions 📝  
-
+### **[Telegram Bots](https://github.com/Igor-Adlab/spacebots-api)**
 ### **[Demo Workflow Engine](https://github.com/Igor-Adlab/demo-workflow-engine)** 🚀  
 A simple task automation engine with customizable nodes. Automate your processes and manage tasks easily with conditions and triggers.
 
 ---
 
 ## Let's Connect!  
-I'm always open to discussing new projects, collaborations, or ideas. Feel free to reach out to me here or on [LinkedIn](https://www.linkedin.com/in/igor-olshevsky).
+I'm always open to discussing new projects, collaborations, or ideas.
